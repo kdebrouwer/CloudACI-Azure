@@ -1,0 +1,2 @@
+git clone  -b capic https://github.com/ciscoecosystem/terraform-provider-aci.git
+git clone  -b capic ttps://github.com/ciscoecosystem/aci-go-client.git
