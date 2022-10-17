@@ -20,7 +20,6 @@ mgmtNsgName              = "controllers_cloudapp-cloud-infra"
 mgmtAsgName              = "controllers_cloudapp-cloud-infra"
 subnetPrefix             = "subnet-"
 _artifactsLocation       = "https://catalogartifact.azureedge.net/publicartifacts/cisco.cisco-aci-cloud-apic-65f48205-d262-4698-a599-ff2148e9500b-25_0_5-byol/Artifacts/mainTemplate.json"
-_msoUrl                  = "https://bdsol-aci12-mso-1"
 adminPasswordOrKey       = "ins3965!ins3965!"
 adminPublicKey           = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC+oaCkn5zlqVyUFm3H99ovq3+Nen8cw1WDIJsy/VyZXmzthr/WlmfPGsfIqBLozbTCX69CI526ZmCbM39GdD2nIjI3C62BCeOAOGd3ORlLeqx8My1XBXF/ZsvInmMdlxqkRVSeuiCYXliryk63CogJNSintc9sE3KL8A1A2mTrhAesE4jyTZHWgvIPzpCHdhh/gkJW/PZGHpww92DMVjWAMKhr4MePUIEW5kYhOWNJkV+EnykZRS/EV5j5QcIHQKTQCKGkkQIDq+sujn4ZbwdRDyZFRLR1MukAzeWXLQSNqX0fQC3Co2OXqsEasO1GVbmICyFCryWTKIOsLKVEbuDNPI6cSMZ56dlhllreTXkOT645B4+UyvnmX/E5yN6kqdlftD8hmJgJwKiezils1QljNwhfujAIsGvtVpLqJ96e8OnhJoBRSfy8HvNm0BwGuOaA4VAAm6HMceI7urc05D2drrXg80C9hLEZp+R5o52AWBexTrbVKzCFYgPmCuORyHp7Q2eC0esL4oz2mGyTI6dgksE9CstOfELkKhet7gzlreOj4hHi5cCHaxm5Oy5BhxNm7x7xv/PvK3whNaTn1kUIVMooIGRy57a+8OvLVfR4HICdM9K4QGPDaDglDEgLMneT8nI1sL2z35S1Ayx+eeyINW+1wrrPVzKUwjpSq2F5sQ=="
 

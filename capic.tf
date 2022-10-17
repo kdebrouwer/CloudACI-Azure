@@ -45,7 +45,7 @@ resource "azurerm_resource_group" "rgroup" {
 # Deploy cAPIC from ARM template
 resource "azurerm_resource_group_template_deployment" "capic" {
   depends_on          = [azurerm_resource_group.rgroup]
-  name                = var.vmName
+  name                = var.vmNam
   resource_group_name = var.rgName
   deployment_mode     = "Incremental"
   template_content    = file("template/template.json")

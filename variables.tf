@@ -137,10 +137,6 @@ variable "_artifactsLocation" {
   default = "some_value"
 }
 
-variable "_msoUrl" {
-  type    = string
-  default = "some_value"
-}
 
 variable "adminPasswordOrKey" {
   type    = string

@@ -1,0 +1,4 @@
+terraform import azurerm_marketplace_agreement.capic /subscriptions/fa05d217-7f34-419e-b9ea-5932f2754cc9/providers/Microsoft.MarketplaceOrdering/agreements/cisco/offers/cisco-aci-cloud-apic-virtual/plans/25_0_5-byol
+terraform import azurerm_marketplace_agreement.c8kv /subscriptions/fa05d217-7f34-419e-b9ea-5932f2754cc9/providers/Microsoft.MarketplaceOrdering/agreements/cisco/offers/cisco-c8000v/plans/17_07_01a-byol
+
+$env:TF_CLI_ARGS_apply='-parallelism=1'
